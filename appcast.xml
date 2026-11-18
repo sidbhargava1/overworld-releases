@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuszewski.com/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Overworld</title>
+    <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
+    <language>en</language>
+    <item>
+      <title>Overworld 0.1.0</title>
+      <pubDate>Wed, 18 Nov 2026 16:01:49 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>First release. Overworld shows your Claude Code agents as residents of a small town, and only watches: it never blocks, approves or changes anything in Claude Code.</li>
+<li>Updates arrive on their own. Overworld checks once a day and asks nothing while you are busy; when a new version is ready, the app menu and the menu bar item read "Update to ...".</li>
+</ul>
+<p>sha256 ad2fd742f522bc9b3dd85edcf1df7c40cd4cb687b078c7d0c9b799f31afe7aed</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.1.0/Overworld-0.1.0.dmg" length="4998485" type="application/octet-stream" sparkle:edSignature="He21zXHjjsQnLj3aZBJc6Z5IMa5XVCFl0JTIT+mi321I7UG4keiKQg6bpSB1Owb+5jfFHtvo3VRGh87g0DIDDg=="/>
+    </item>
+  </channel>
+</rss>
