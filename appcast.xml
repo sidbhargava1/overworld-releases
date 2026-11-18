@@ -5,6 +5,27 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 23:52:22 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Cards can now show a task and a rough finish time. If you have a manager session write a small task file, each of its subagents' cards shows what it is working on and roughly when it expects to be done. Overworld only reads that file and never writes it.</li>
+<li>Houses are drawn at twice the detail inside. Open one and the walls, floors and furniture look noticeably sharper.</li>
+<li>You get a clear view into a house you open. Barrels, woodpiles and the quay lamps in front of it now disappear whole, with no slivers left behind. A hidden lamp's light and reflection go with it.</li>
+<li>Speech bubbles, the sleeping "zzz", tallies and the notice board are now drawn as sharp text at every zoom level. The board's names sit on a small oak notice plate.</li>
+<li>A few more cherry trees are in bloom around the village. It is a light touch.</li>
+<li>The opening film now plays reliably at launch, even when the Mac is busy, the window is hidden for a moment, or you click into it early.</li>
+<li>Fixed: the outline around whatever you hover over or select now clears when you move off it, leave the window, or close its card.</li>
+<li>Agents who have finished for now step out of their house and wait in town, along the terrace walls or out on the pier. If the town is full, they wait in the Entrance Hall as before.</li>
+</ul>
+<p>sha256 126ff58679035aab71a9b91a4d6244ad4e993d36c887b9646a89fb4182136065</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.0/Overworld-0.2.0.dmg" length="5116913" type="application/octet-stream" sparkle:edSignature="acAxpfuCWLGsaDA7sqMapUxBiibzYzUMvsuuDFppv6ENLJhGcTwcFtOqx2Xgrcm/b64ng0/wbo7/YzPeFeNpDw=="/>
+    </item>
+    <item>
       <title>Overworld 0.1.0</title>
       <pubDate>Wed, 18 Nov 2026 16:01:49 +0000</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
