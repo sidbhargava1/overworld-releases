@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.2.2</title>
+      <pubDate>Thu, 19 Nov 2026 03:43:27 +0000</pubDate>
+      <sparkle:version>0.2.2</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Overworld has a new mark: the brass bell from the town's clock tower, on the app icon, in the menu bar and in the opening title. In the menu bar it shows a slash when the hook is not installed.</li>
+<li>A new notice board, opened from the Hall, lists each house's agents, working, asleep or finished for now, with the bells waiting on you first. When a manager session writes a task file, its subagents' rows also show a rough finish time.</li>
+<li>If the opening film doesn't play at launch, Overworld now notes why in the system log.</li>
+</ul>
+<p>sha256 629b53a6d59082d8aed5c1228718ed77b21bada5030841c6a395887b1b7cd12a</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.2/Overworld-0.2.2.dmg" length="4115432" type="application/octet-stream" sparkle:edSignature="xG3khxjK0zDetv/bETgXbsQZhq5hVQ32EJSxDptIC2Ww/+KB204IZflg5YIo+SGGYdqCJZrMC/MtO7JE5tirBQ=="/>
+    </item>
+    <item>
       <title>Overworld 0.2.1</title>
       <pubDate>Thu, 19 Nov 2026 01:37:47 +0000</pubDate>
       <sparkle:version>0.2.1</sparkle:version>
