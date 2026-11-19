@@ -5,6 +5,20 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.2.3</title>
+      <pubDate>Thu, 19 Nov 2026 04:27:16 +0000</pubDate>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Fixed: if the opening film could not play, the window could stop responding to clicks and keys until relaunch. Clicks and keys now always come back within twelve seconds, Esc always works, and 'Play the Opening' is unavailable while a film is pending.</li>
+</ul>
+<p>sha256 79d422d4685ddbe02a6b0a2c6affe33206db1709b1e668a06c9d94cc8b225d0a</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.3/Overworld-0.2.3.dmg" length="4122434" type="application/octet-stream" sparkle:edSignature="MdZy6ZexLLxJyr5m7UX0n9rXSPH9R51FpryfnwAyercq2ZyY2d3ksvNMI6T8Q4N00Fpjqc8hVeL9CzDQFFLiDg=="/>
+    </item>
+    <item>
       <title>Overworld 0.2.2</title>
       <pubDate>Thu, 19 Nov 2026 03:43:27 +0000</pubDate>
       <sparkle:version>0.2.2</sparkle:version>
