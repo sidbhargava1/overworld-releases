@@ -1,0 +1,20 @@
+    <item>
+      <title>Overworld 0.3.0</title>
+      <pubDate>Thu, 19 Nov 2026 18:20:13 +0000</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Residents are sharper inside houses. Every class now has a sprite sheet at twice the detail, used the moment you open a house.</li>
+<li>House signs and the opening title are drawn as crisp text at every zoom, the way bubbles already were. The chalk "+N" by the Hall is gone; the Hall card carries that count.</li>
+<li>The remaining interior surfaces (stone, flagstones, rubble, iron, joists and the door) are redrawn at the finer detail, so a room reads evenly sharp.</li>
+<li>At night, inside a house is now night: the walls take the cool dark of the hour instead of a sunset glow.</li>
+<li>Residents have new poses in their sheets, leaning and sitting side-on. A stroll between terraces is built and tested but switched off in this release: no lane in today's town passes the visibility rules, so nobody strolls yet. Leaning and sitting at the café come in 0.3.1.</li>
+<li>The first step toward a bigger-on-the-inside view of a house: interiors are laid out by a generator instead of fixed plans. Nothing visible changes yet.</li>
+<li>The test suite runs faster and a test that could hang it is fixed. Not visible in the app.</li>
+</ul>
+<p>sha256 7c7c15e351fcb2f48bb45448797d191a61ed8bbb24b84537a986baf2b20fd72b</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.3.0/Overworld-0.3.0.dmg" length="5215344" type="application/octet-stream" sparkle:edSignature="ljdZg3RhuN4iKByrCzz+BPF90aM9Y8nKtQMPfp5MOhOEfSy3zPmVz9m/pQIN1sp2szkg+Rvf31NytaNQNk40Cw=="/>
+    </item>
