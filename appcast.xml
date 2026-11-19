@@ -5,6 +5,21 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.2.1</title>
+      <pubDate>Thu, 19 Nov 2026 01:37:47 +0000</pubDate>
+      <sparkle:version>0.2.1</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Speech bubbles now show in the Town view, and working residents now and then show a quiet "…".</li>
+<li>The Overworld title now settles in a top corner and stays a little longer. A new "Play the Opening" item replays the film: in the View menu (⌥⌘P), or from the menu-bar lamp, which opens the window first if it's closed.</li>
+</ul>
+<p>sha256 915da2b9c39f88e06266f2ee143108d6cabace290b8388bfba9aad1a6321715a</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.1/Overworld-0.2.1.dmg" length="5125985" type="application/octet-stream" sparkle:edSignature="/n5A5B5eKbBeVner/BcDmJnf4R07BQ+uhfgL6IYvlaG21uYnc2abljIYPlw+ebm9Dzbvc05rxxMhYrl1EDjmCg=="/>
+    </item>
+    <item>
       <title>Overworld 0.2.0</title>
       <pubDate>Wed, 18 Nov 2026 23:52:22 +0000</pubDate>
       <sparkle:version>0.2.0</sparkle:version>
