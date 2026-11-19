@@ -1,0 +1,14 @@
+    <item>
+      <title>Overworld 0.2.4</title>
+      <pubDate>Thu, 19 Nov 2026 06:53:16 +0000</pubDate>
+      <sparkle:version>0.2.4</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Fixed: speech bubbles now appear, including for agents already running when the app starts. Overworld was not reading each agent's task description, so bubbles had nothing to say. A working resident now shows its task above it in the street, or on its house's roof when it is indoors.</li>
+</ul>
+<p>sha256 cb0b5c470c405f1ab2240ed1179f67b6b95a3f8ec5481e0d465bdcdc189a5820</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.4/Overworld-0.2.4.dmg" length="4124654" type="application/octet-stream" sparkle:edSignature="luT6A5ObsY1/hZpk5WZL+k88v/wmZ0gfrP2ObJlfJ29PF0u4NpN0H9nYWbXPXGtQIF+8U35vutsenBJNrz+OBA=="/>
+    </item>
