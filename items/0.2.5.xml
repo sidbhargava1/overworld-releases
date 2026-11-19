@@ -1,0 +1,14 @@
+    <item>
+      <title>Overworld 0.2.5</title>
+      <pubDate>Thu, 19 Nov 2026 17:24:08 +0000</pubDate>
+      <sparkle:version>0.2.5</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Fixed: the town could stop updating, and the opening film would not play at launch or from "Play the Opening", whenever an agent working outside a git repository finished for now. It now waits by the Hall as it should.</li>
+</ul>
+<p>sha256 4200ad1b54ea01425a41e4b2a13c08073c63caf417e42d2e20fa2d55bb9932c2</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.2.5/Overworld-0.2.5.dmg" length="5210426" type="application/octet-stream" sparkle:edSignature="GafOzY41EZeu4FPU88Q1k8pgim8RLQ/NzewTTrbbUVkZruN3LTRxLhlYlnV6TtK0aGPtsxqQ/SU9pCMhZiXUAA=="/>
+    </item>
