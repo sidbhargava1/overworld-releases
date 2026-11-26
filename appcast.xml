@@ -5,6 +5,21 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.3.1</title>
+      <pubDate>Thu, 26 Nov 2026 22:18:23 +0000</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Finished agents now tidy away. A resident who has finished for now stands in town for ten minutes instead of thirty, each house shows at most three of them, and a house card lists the last two hours or the five most recent, with one line counting the rest. The manager card still keeps the full list.</li>
+<li>The test suite no longer leaves stray browser processes behind. Not visible in the app.</li>
+</ul>
+<p>sha256 d8ce06102933ab7a47495b3cb5a879e65c368e90892e619f0a5caec737273f4c</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.3.1/Overworld-0.3.1.dmg" length="5241815" type="application/octet-stream" sparkle:edSignature="dBmSZFY33ceD6aFRunLN03Rlpou2F4NxozNkZhZyN3DsdhhQlSFDuV9Z1YGjNO0XmsL3bcYixTBSpOrdtq7PAA=="/>
+    </item>
+    <item>
       <title>Overworld 0.3.0</title>
       <pubDate>Thu, 19 Nov 2026 18:20:13 +0000</pubDate>
       <sparkle:version>0.3.0</sparkle:version>
