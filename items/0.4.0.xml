@@ -1,0 +1,17 @@
+    <item>
+      <title>Overworld 0.4.0</title>
+      <pubDate>Fri, 27 Nov 2026 04:24:26 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The notice board in town now shows a small tally on its face: a slip for each house with a pin in that house's door colour, strokes for residents working (charcoal) and asleep (grey), and a brass mark when a bell is ringing. Clicking the board opens the Board card. The planting in front hides most of it at the default view, so zoom or pan to read it.</li>
+<li>The commons shows the four most relevant residents: ringing bells first, then working, then idle, newest first. The others are counted in the Hall. The Mac app's list uses the same order.</li>
+<li>One resident with damaged data no longer stops the rest of the town from drawing.</li>
+<li>A resident whose house can't be found walks home instead of vanishing.</li>
+</ul>
+<p>sha256 45a82dd9fb41dfe31b1e8ca9c8d5e710569e9e34e9066451722e009f7dd1093a</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.4.0/Overworld-0.4.0.dmg" length="4157170" type="application/octet-stream" sparkle:edSignature="Z/uKzRzp3F1/7dEDu8IpN2WRymJudNiBopPddye7LEbrarprNyGExwQXm1B/ACJK8tRwl5mCg5STlDqeYFeEBw=="/>
+    </item>
