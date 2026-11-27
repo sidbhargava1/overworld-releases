@@ -1,0 +1,17 @@
+    <item>
+      <title>Overworld 0.5.0</title>
+      <pubDate>Fri, 27 Nov 2026 21:15:45 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Hover a house and a small toolbar rises above its roof. One button brings that house's manager session forward in its terminal, another opens the house card. A third, the microphone, is there but switched off until a later release. The toolbar works from the keyboard too: Tab walks the houses, Return opens the bar, Esc steps back.</li>
+<li>The manager of a house now stands at its door, in the house's own colour, while its session is live.</li>
+<li>On a MacBook with a notch, Overworld lives in the notch. At rest it is just the notch. When agents are waiting for you, a small count appears beside it. Click the menu bar icon, the notch or the count and a list springs open: who is waiting, then what is running; click a row to jump to it. The usual menu is now on right-click, Control-click or Option-click.</li>
+<li>The menu bar menu is redrawn: a version line and a state line at the top, one column of icons, and up to nine waiting agents listed.</li>
+</ul>
+<p>sha256 eef4ae85f1eeb8ab808bc8e83e978358144b029d5d90bc07c5c02ecd099aecc8</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.5.0/Overworld-0.5.0.dmg" length="5537357" type="application/octet-stream" sparkle:edSignature="9D04bR5jTu37izSlNr3+yPLLyM9+3qALtQgvU/R1RA+ry36Vc3fNyJ5dMhRurflI6OtumqRphHEHFrcEUvyUCA=="/>
+    </item>
