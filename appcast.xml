@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/overworld-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Overworld 0.3.2</title>
+      <pubDate>Fri, 27 Nov 2026 01:53:48 +0000</pubDate>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Idle residents now sit and lean. A resident who stops at the quay café sits in profile toward the table, and one who stops at a terrace wall leans against it. The café has two chairs per table.</li>
+<li>The sea at dusk starts the same way every time. A fix to the sea's clock; the only visible effect is in the opening film's water on a repeated play.</li>
+<li>Test-suite changes only: golden fixtures for the hook wire format and the scene snapshot, and a virtual clock for the opening timer tests. Not visible in the app.</li>
+</ul>
+<p>sha256 c470e53eece29e8cef74801f70a476c825633fd0a43599b0ac6c57de5ab02418</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/overworld-releases/releases/download/v0.3.2/Overworld-0.3.2.dmg" length="5245328" type="application/octet-stream" sparkle:edSignature="8uzXW1FJFNNuWzPhA3DUISIXhMea7+KYluOQCxLyv0XBZXN14ImIMv20z8qN9ygimONGCh4LCe3lnCwGFGdfDQ=="/>
+    </item>
+    <item>
       <title>Overworld 0.3.1</title>
       <pubDate>Thu, 26 Nov 2026 22:18:23 +0000</pubDate>
       <sparkle:version>0.3.1</sparkle:version>
